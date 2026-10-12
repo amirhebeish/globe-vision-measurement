@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+Dataset_25/
+globe_image/
+points/
+*.mp4
+*.avi
+*.pcd
+*.jpg
